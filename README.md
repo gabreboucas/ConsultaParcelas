@@ -35,7 +35,7 @@ O **Consulta Prazos** é um **aplicativo Web e Mobile** para **mercados e estabe
 #### Instalação
 
 ### Clone o repositório
-git clone https://github.com/usuario/consulta-prazos.git
+git clone https://github.com/usuario/ConsultaParcelas.git
 
 # Entre na pasta do projeto
 cd consulta-prazos
@@ -86,7 +86,7 @@ Integration keys (PIX and Bank Slip)
 
 Installation
 # Clone the repository
-git clone https://github.com/user/consulta-prazos.git
+git clone https://github.com/user/ConsultaParcelas.git
 
 # Navigate to the project folder
 cd consulta-prazos
