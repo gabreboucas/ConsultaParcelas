@@ -45,6 +45,7 @@ flutter pub get
 
 # Execute o projeto
 flutter run
+
 🛠️ Tecnologias Utilizadas
 FlutterFlow / Flutter
 
