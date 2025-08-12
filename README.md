@@ -46,7 +46,7 @@ flutter pub get
 # Execute o projeto
 flutter run
 
-🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 FlutterFlow / Flutter
 
 Dart
@@ -55,16 +55,16 @@ PHP (API Canvi)
 
 PIX e Boleto Bancário
 
-📄 Licença
+### 📄 Licença
 Este projeto está sob a licença MIT – veja o arquivo LICENSE para mais detalhes.
 
-🇺🇸 About the Project
+## 🇺🇸 About the Project
 Consulta Prazos is a Web and Mobile app for supermarkets and retail stores, allowing customers with pending payments to settle them quickly and securely.
 
-💳 Payment Methods: PIX and Bank Slip (Boleto)
+### 💳 Payment Methods: PIX and Bank Slip (Boleto)
 🔗 Fully integrated with the Canvi API developed in PHP.
 
-✨ Features
+### ✨ Features
 📋 List pending payments.
 
 📲 Generate QR Code for PIX payments.
@@ -75,7 +75,7 @@ Consulta Prazos is a Web and Mobile app for supermarkets and retail stores, allo
 
 💻 Works on both Web and Mobile (FlutterFlow + Flutter).
 
-🚀 Getting Started
+### 🚀 Getting Started
 Requirements
 Flutter stable installed
 
@@ -85,7 +85,7 @@ Canvi API set up and running
 
 Integration keys (PIX and Bank Slip)
 
-Installation
+### Installation
 # Clone the repository
 git clone https://github.com/user/ConsultaParcelas.git
 
@@ -98,12 +98,12 @@ flutter pub get
 # Run the project
 flutter run
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 FlutterFlow / Flutter
 Dart
 PHP (Canvi API)
 PIX and Bank Slip (Boleto)
 
-📄 License
+### 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
